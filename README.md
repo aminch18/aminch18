@@ -14,10 +14,11 @@
 [![GitHub Amin Chouaibi](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/aminch18) --!>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>A little more about me...  
 
 ```javascript
-const Edgar = {
+
+const Amin = {
   code: [Javascript, HTML, C#, SQL],
   cloud: [Azure, Heroku, AWS],
   tools:[Next.JS, React, NetCore 2.x-3.x],
@@ -26,8 +27,5 @@ const Edgar = {
   personalProjects: [],
   challenge: "Learn the maximum about web development and cloud computing."
 }
+
 ```
-
-
-
-
