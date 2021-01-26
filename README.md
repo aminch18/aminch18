@@ -12,21 +12,15 @@
 
 <!-- [![Linkedin: Amin Chouaibi](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgargagocarrillo/)](https://www.linkedin.com/in/amin-chouaibi-el-azaar-223942160/)
 [![GitHub Amin Chouaibi](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/aminch18) 
-
+ --!>
 
 ### A little more about me...  
 ```javascript
-const Edgar = {
-  code: [Javascript, HTML, CSS, Matlab, R, SQL,C,C++,Dart],
-  tools: [React, Node, Azure, AWS, MongoDB,Vercel, Heroku,Flutter],
-  ID: [VSCode],
-  design: [Figma, Anima, Sketch],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  projects: {
-                        title: "Nuwe",
-                        description: "The development and job search platform of the future",
-                        url: "https://nuwe.io"
-                      },
- challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
+const Amin = {
+  code: [Javascript, HTML, C#, SQL],
+  tools: [React, Node, NETCore, MongoDB, SQLServer, ],
+  cloud: [Azure, Heroku]
+  ID: [VSCode, VS],
+  architecture: ["microservices", "event-driven", "domain driven design paradigm"],
 }
- --!>
+
