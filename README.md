@@ -6,27 +6,32 @@
 </br>Software Development Enginner at<a href="https://www.plainconcepts.com/"> Plain Concepts</a>
 </em></p>
 
-<!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://es.linkedin.com/in/amin-chouaibi-el-azaar-223942160?trk=profile-badge)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
-<!-- [![Linkedin: Amin Chouaibi](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgargagocarrillo/)](https://www.linkedin.com/in/amin-chouaibi-el-azaar-223942160/)
-[![GitHub Amin Chouaibi](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/aminch18) 
-
-
-### A little more about me...  
+[![GitHub aminch19](https://img.shields.io/github/followers/aminch18?label=follow&style=social)](https://github.com/aminch18)
+###  🐱‍💻 A little more about me...
 ```javascript
-const Edgar = {
-  code: [Javascript, HTML, CSS, Matlab, R, SQL,C,C++,Dart],
-  tools: [React, Node, Azure, AWS, MongoDB,Vercel, Heroku,Flutter],
-  ID: [VSCode],
-  design: [Figma, Anima, Sketch],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  projects: {
-                        title: "Nuwe",
-                        description: "The development and job search platform of the future",
-                        url: "https://nuwe.io"
-                      },
- challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
+const Amin = {
+  Code: [C#, Javascript, Html, Sql],
+  RuntimeEnvs: [.Net, Node],
+  Tools: [React, NETCore, MongoDB, SQLServer],
+  Orms : ['Entity Framework Core', 'Dapper', 'typeORM', 'Mongoose'],
+  Cloud: [Azure, Heroku],
+  ID: [Visual Studio, VSCode],
+  Architectures: ['Event-Driven', 'Domain Driven Design Paradigm', 'CQS', 'CQRS', 'Microservices'],
 }
- --!>
+```
+
+```cs
+dynamic Amin = new
+{
+    Code = new List<string> { "Javascript", "HTML", "C#", "SQL" },
+    RuntimeEnvs = new List<string> { ".NET", "Node.js" },
+    Tools = new List<string> { "React", ".NETCore", "MongoDB", "Terraform"},
+    Orms = new List<string> {"Entity Framework Core", "Dapper", "typeORM", "Mongoose"},
+    Cloud = new List<string> { "Azure", "Heroku" },
+    IDEs = new List<string> { "VSCode", "Visual Studio" },
+    Architectures = new List<string> {"Event-Driven", "Domain Driven Design Paradigm", "CQS", "CQRS", "Microservices"}
+};
+```
