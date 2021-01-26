@@ -26,7 +26,7 @@ const Amin = {
 ```cs
 dynamic Amin = new
 {
-    Code = new List<string> { "Javascript", "HTML", "C#", "SQL" },
+    Code = new List<string> { "C#", "Javascript", "Html", "Sql" },
     RuntimeEnvs = new List<string> { ".NET", "Node.js" },
     Tools = new List<string> { "React", ".NETCore", "MongoDB", "Terraform"},
     Orms = new List<string> {"Entity Framework Core", "Dapper", "typeORM", "Mongoose"},
