@@ -6,15 +6,20 @@
 </br>Software Development Enginner at<a href="https://www.plainconcepts.com/"> Plain Concepts</a>
 </em></p>
 
-### A little more about me...
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://es.linkedin.com/in/amin-chouaibi-el-azaar-223942160?trk=profile-badge)
+&nbsp;
+
+[![GitHub aminch19](https://img.shields.io/github/followers/aminch18?label=follow&style=social)](https://github.com/aminch18)
+###  🐱‍💻 A little more about me...
 ```javascript
 const Amin = {
-  code: [C#, Javascript, Html, Sql],
-  tools: [React, Node, NETCore, MongoDB, SQLServer],
-  cloud: [Azure, Heroku]
-  ID: [Visual Studio, VSCode, ],
-  architecture: ["microservices", "event-driven", "domain driven design paradigm"],
-  projects: 
+  Code: [C#, Javascript, Html, Sql],
+  RuntimeEnvs: [.Net, Node],
+  Tools: [React, NETCore, MongoDB, SQLServer],
+  Orms : ['Entity Framework Core', 'Dapper', 'typeORM', 'Mongoose'],
+  Cloud: [Azure, Heroku],
+  ID: [Visual Studio, VSCode],
+  Architectures: ['Event-Driven', 'Domain Driven Design Paradigm', 'CQS', 'CQRS', 'Microservices'],
 }
 ```
 
@@ -22,9 +27,11 @@ const Amin = {
 dynamic Amin = new
 {
     Code = new List<string> { "Javascript", "HTML", "C#", "SQL" },
-    Tools = new List<string> { "React", "Node", "NETCore", "MongoDB", "Terraform", },
+    RuntimeEnvs = new List<string> { ".NET", "Node.js" },
+    Tools = new List<string> { "React", ".NETCore", "MongoDB", "Terraform"},
+    Orms = new List<string> {"Entity Framework Core", "Dapper", "typeORM", "Mongoose"},
     Cloud = new List<string> { "Azure", "Heroku" },
     IDEs = new List<string> { "VSCode", "Visual Studio" },
-    Architectures = new List<string> { "microservices", "event-driven", "domain driven design paradigm" },
+    Architectures = new List<string> {"Event-Driven", "Domain Driven Design Paradigm", "CQS", "CQRS", "Microservices"}
 };
 ```
