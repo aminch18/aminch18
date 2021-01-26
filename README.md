@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Amin Chouaibi </h2>
 
-<img align='right' src="./assets/portrait.jpg" width="230"> 
+<img align='right' src="./assets/portrait.jpg" width="150"> 
 
 <p><em>Senior technician in multiplatform development<a href="https://mataro.escolapia.cat/etapes/formacio-professional/grau-superior/dam/"> Escola Pia Santa Anna Mataró</a>
 </br>Software Development Enginner at<a href="https://www.plainconcepts.com/"> Plain Concepts</a>
