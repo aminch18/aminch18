@@ -2,11 +2,7 @@
 
 <img align='right' src="./assets/portrait.jpg" width="150"> 
 
-<p><em> Studying Computer Engineering Degree 📖💻 <a href="https://estudios.uoc.edu/es/grados/ingenieria-informatica/presentacion"> UOC</a>
-  
-  
 <p><em>Senior technician in multiplatform development<a href="https://mataro.escolapia.cat/etapes/formacio-professional/grau-superior/dam/"> Escola Pia Santa Anna Mataró</a>
-
 </br>Software Advanced Enginner at<a href="https://www.gartner.com/en/digital-markets"> Gartner - Digital Markets</a>
 </em></p>
 
