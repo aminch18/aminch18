@@ -12,13 +12,13 @@
 [![GitHub aminch19](https://img.shields.io/github/followers/aminch18?label=follow&style=social)](https://github.com/aminch18)
 ###  🐱‍💻 A little more about me...
 ```javascript
-const Amin = {
-  Code: [C#, Javascript, Html, Sql],
-  RuntimeEnvs: [.Net, Node],
-  Tools: [React, NETCore, MongoDB, SQLServer],
+let Amin = {
+  Code: ['C#', 'Javascript', 'Html', 'Sql'],
+  RuntimeEnvs: ['.Net', 'Node'],
+  Tools: ['React','NETCore', 'MongoDB', 'SQLServer', 'Terraform', 'Docker', 'Elastic Search', 'Kafka'],
   Orms : ['Entity Framework Core', 'Dapper', 'typeORM', 'Mongoose'],
-  Cloud: [Azure, Heroku],
-  ID: [Visual Studio, VSCode],
+  Cloud: ['Azure', 'Heroku', 'AWS'],
+  ID: ['Visual Studio', 'VSCode', 'Jet Brains Rider'],
   Architectures: ['Event-Driven', 'Domain Driven Design Paradigm', 'CQS', 'CQRS', 'Microservices'],
 }
 ```
@@ -28,10 +28,10 @@ dynamic Amin = new
 {
     Code = new List<string> { "C#", "Javascript", "Html", "Sql" },
     RuntimeEnvs = new List<string> { ".NET", "Node.js" },
-    Tools = new List<string> { "React", ".NETCore", "MongoDB", "Terraform"},
+    Tools = new List<string> { "React", ".NETCore", "MongoDB", "Terraform", "Docker", "Elastic Search", "Kafka"},
     Orms = new List<string> {"Entity Framework Core", "Dapper", "typeORM", "Mongoose"},
-    Cloud = new List<string> { "Azure", "Heroku" },
-    IDEs = new List<string> { "VSCode", "Visual Studio" },
+    Cloud = new List<string> { "Azure", "Heroku", "AWS" },
+    IDEs = new List<string> { "VSCode", "Visual Studio", "Jet Brains Rider"},
     Architectures = new List<string> {"Event-Driven", "Domain Driven Design Paradigm", "CQS", "CQRS", "Microservices"}
 };
 ```
