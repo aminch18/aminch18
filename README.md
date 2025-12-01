@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Amin Chouaibi El Azaar</h2>
 
-<img align='right' src="https://media.licdn.com/dms/image/v2/D4D03AQFifrbYAS7S0g/profile-displayphoto-scale_200_200/B4DZoWWCMfJcAY-/0/1761311467201?e=1763596800&v=beta&t=dIyDiBEsfUcqWsp4jwGb3lPwBwS16jDOQlBCs3aDu_M" width="150"> 
+<img align='right' src="./assets/hero-image.png" width="150"> 
 
 <p><em>Senior Software Engineer at <a href="https://www.gartner.com/en/digital-markets">Gartner Digital Markets</a>
 </br>Building scalable, high-performance systems at scale
